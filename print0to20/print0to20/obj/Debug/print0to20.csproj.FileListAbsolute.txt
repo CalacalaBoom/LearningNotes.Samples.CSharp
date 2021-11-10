@@ -1,0 +1,7 @@
+F:\workspace\C#\example\print0to20\print0to20\bin\Debug\print0to20.exe.config
+F:\workspace\C#\example\print0to20\print0to20\bin\Debug\print0to20.exe
+F:\workspace\C#\example\print0to20\print0to20\bin\Debug\print0to20.pdb
+F:\workspace\C#\example\print0to20\print0to20\obj\Debug\print0to20.csprojAssemblyReference.cache
+F:\workspace\C#\example\print0to20\print0to20\obj\Debug\print0to20.csproj.CoreCompileInputs.cache
+F:\workspace\C#\example\print0to20\print0to20\obj\Debug\print0to20.exe
+F:\workspace\C#\example\print0to20\print0to20\obj\Debug\print0to20.pdb

@@ -1,0 +1,7 @@
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\bin\Debug\Interactive_practice1.exe.config
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\bin\Debug\Interactive_practice1.exe
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\bin\Debug\Interactive_practice1.pdb
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\obj\Debug\Interactive_practice1.csprojAssemblyReference.cache
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\obj\Debug\Interactive_practice1.csproj.CoreCompileInputs.cache
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\obj\Debug\Interactive_practice1.exe
+F:\workspace\C#\example\Interactive_practice1\Interactive_practice1\obj\Debug\Interactive_practice1.pdb

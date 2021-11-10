@@ -1,0 +1,6 @@
+F:\workspace\C#\example\NameSpace\NameSpace\bin\Debug\NameSpace.exe.config
+F:\workspace\C#\example\NameSpace\NameSpace\bin\Debug\NameSpace.exe
+F:\workspace\C#\example\NameSpace\NameSpace\bin\Debug\NameSpace.pdb
+F:\workspace\C#\example\NameSpace\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+F:\workspace\C#\example\NameSpace\NameSpace\obj\Debug\NameSpace.exe
+F:\workspace\C#\example\NameSpace\NameSpace\obj\Debug\NameSpace.pdb
